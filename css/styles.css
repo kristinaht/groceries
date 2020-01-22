@@ -1,0 +1,10 @@
+button {
+  width: 100%;
+  padding-top: 20px;
+}
+
+#result{
+  list-style: none;
+  display: none;
+}
+
